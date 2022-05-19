@@ -8,10 +8,8 @@
 
     <?php include('inc/css.html') ?>
 
-    <title>About Us | HiTech</title>
-    <!-- Icon -->
-    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
-    <!-- Icon -->
+    <title>About Me</title>
+   
 </head>
 
 <body class="page page-about">
