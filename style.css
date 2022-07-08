@@ -1,0 +1,62 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.hero{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: #eff4fd;
+
+}
+NAV{
+    display: flex;
+    WIDTH: 90%;
+    margin: auto;
+    padding: 20PX 0;
+    align-items: center;
+    justify-content: space-between;
+
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px
+}
+nav ul li a{
+    text-decoration:NONE;
+    color: #00ff;
+    font-weight: bold;
+
+}
+nav ul li a :hover{
+    color: red;
+}
+.details{
+    margin-left: 8%;
+    margin-top: 20%
+}
+.details h1{
+    font-size: 50px;
+    color: #212121;
+    margin-bottom: 20%
+
+}
+span{
+   
+    color :darkorange;
+}
+.details p {
+    color:grey;
+    line-height:normal;
+
+}
+.details a{
+    background: lightgrey;
+padding: 1px 1px;
+text-decoration: none;
+font-width:bold;
+    color: dodgerblue;
+}
